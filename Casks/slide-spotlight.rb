@@ -1,6 +1,6 @@
 cask "slide-spotlight" do
-  version "1.0.11"
-  sha256 "741f43dce1725d64e2fc0df03a14d063d25aae7a399a9c6239a0fc2e17b7e4da"
+  version "1.2.0"
+  sha256 "388e618223adc0110396d22f7f0548b02cee641896d5d0bb03c50ceb525ce2a1"
 
   url "https://8gl1iqkfgqoaimle.public.blob.vercel-storage.com/SlideSpotlight-macos-#{version}.dmg"
   name "Slide Spotlight"
